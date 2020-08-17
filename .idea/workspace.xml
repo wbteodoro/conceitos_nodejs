@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69755253-ed27-46fb-9a1e-6a5f92136de8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gF8Oc1MKNusjBXeZKZhcWzY6v7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69755253-ed27-46fb-9a1e-6a5f92136de8" name="Default Changelist" comment="" />
+      <created>1597698950614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597698950614</updated>
+      <workItem from="1597698953089" duration="3901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2488" height="273" key="GridCell.Tab.0.bottom" timestamp="1597699041036">
+      <screen x="47" y="27" width="2513" height="1053" />
+    </state>
+    <state width="2488" height="273" key="GridCell.Tab.0.bottom/47.27.2513.1053/2560.312.1366.768@47.27.2513.1053" timestamp="1597699041036" />
+    <state width="2488" height="273" key="GridCell.Tab.0.center" timestamp="1597699041035">
+      <screen x="47" y="27" width="2513" height="1053" />
+    </state>
+    <state width="2488" height="273" key="GridCell.Tab.0.center/47.27.2513.1053/2560.312.1366.768@47.27.2513.1053" timestamp="1597699041035" />
+    <state width="2488" height="273" key="GridCell.Tab.0.left" timestamp="1597699041035">
+      <screen x="47" y="27" width="2513" height="1053" />
+    </state>
+    <state width="2488" height="273" key="GridCell.Tab.0.left/47.27.2513.1053/2560.312.1366.768@47.27.2513.1053" timestamp="1597699041035" />
+    <state width="2488" height="273" key="GridCell.Tab.0.right" timestamp="1597699041036">
+      <screen x="47" y="27" width="2513" height="1053" />
+    </state>
+    <state width="2488" height="273" key="GridCell.Tab.0.right/47.27.2513.1053/2560.312.1366.768@47.27.2513.1053" timestamp="1597699041036" />
+  </component>
+</project>
